@@ -10,7 +10,7 @@
 3. Deploy to Azure
     1. Go to Azure -> Storage Accounts -> Create
     2. In Azure: go to created Storage Account -> Data management -> Static website. Click Enable.
-    3.3 In VSCode: install Azure Storage extension
+    3. In VSCode: install Azure Storage extension
     4. In VSCode: Click on project folder-> Deploy to Static Website via Azure Storage...
     5. In VSCode: sign to Azure. After sign process got page: 'You are signed in now and can close this page.'
     6. In VSCode: select resource, you created.
